@@ -68,6 +68,8 @@ form:
                     type: int
 ```
 
+VVV
+
 Ajoute une ligne dans l'ongket Avancé une option de formulaire demandant une entrée texte obligatoire qui devra être un entier
 
 ![image](assets/111222333.png)
@@ -76,6 +78,5 @@ Pour info voici ce que l'on avait avant
 
 ![image](assets/111222332.png)
 
-HHH
 HHH
 The End :)
