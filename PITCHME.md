@@ -90,4 +90,11 @@ custom_file:
   accept:
     - image/*
 ```    
+
+HHH
+
+Si vous glissez déposer un fichier dans le selecteur de fichier il sera recopié dans le épetoire user\plugins\my-plugin\assets qui sera au besoin crée automatiquement
+
+HHH
+
 The End :)
