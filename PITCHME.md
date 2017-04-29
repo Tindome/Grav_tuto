@@ -5,19 +5,19 @@ HHH
 
 On doit trouver les elements suivants
 
--Résumé
--Image du résumé
--Article
--Image
+- Résumé
+- Image du résumé
+- Article
+- Image
 HHH
-Création d'un repertoire Francisco 
-Création d'une page francisco_1.md => on va donc appeller un modele francisco_1.html.twig
+- Création d'un repertoire Francisco 
+- Création d'une page francisco_1.md => on va donc appeller un modele francisco_1.html.twig
 
 Dans cette page je n'oublier pas d'ajouter le
-``` html
+```html
 ---
 title: mon titre
 ---
-````
-
+```
+HHH
 The End :)
