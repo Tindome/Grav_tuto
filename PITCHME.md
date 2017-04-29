@@ -79,4 +79,15 @@ Pour info voici ce que l'on avait avant
 ![image](assets/111222332.png)
 
 HHH
+Vous voulez ajouter un image rien de plus simple : 
+
+```ruby
+custom_file:
+  type: file
+  label: A Label
+  destination: 'user/plugins/my-plugin/assets'
+  multiple: true
+  accept:
+    - image/*
+```    
 The End :)
