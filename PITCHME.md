@@ -95,6 +95,25 @@ HHH
 
 Si vous glissez déposer un fichier dans le selecteur de fichier il sera recopié dans le épetoire user\plugins\my-plugin\assets qui sera au besoin crée automatiquement
 
+Concretement ou est sauvegardé la data ?
+
+tout simplement dans le fichier
+
+francisco_1.md
+```ruby 
+---
+title: francisco
+custom_file:
+    user/plugins/my-plugin/assets/111222332.png:
+        name: 111222332.png
+        type: image/png
+        size: 15290
+        path: user/plugins/my-plugin/assets/111222332.png
+ ---       
+```
+
+Remarque si vous avez laissé les autres champs vous avez entre title et custom file d'autres lignes
+
 HHH
 
 The End :)
