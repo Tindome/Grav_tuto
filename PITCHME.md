@@ -114,6 +114,8 @@ custom_file:
 
 Remarque si vous avez laissé les autres champs vous avez entre title et custom file d'autres lignes
 
+Remarique 2 si vous réaffichez la page, il ne montre pas qu'une image est desja ssociée....
+
 HHH
 
 The End :)
