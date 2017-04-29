@@ -70,6 +70,8 @@ form:
 
 Ajoute une ligne dans l'ongket Avancé une option de formulaire demandant une entrée texte obligatoire qui devra être un entier
 
+![image](assets/screenshot-localhost-8084 2017-04-29 17-47-42.png)
+
 HHH
 HHH
 The End :)
