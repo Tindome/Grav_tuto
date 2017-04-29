@@ -116,6 +116,10 @@ Remarque si vous avez laissé les autres champs vous avez entre title et custom 
 
 Remarique 2 si vous réaffichez la page, il ne montre pas qu'une image est desja ssociée....
 
+Attention c'est un tableau qui est stocké donc
+
+<img src="{{page.header.custom_file|first.path}}">monimage</img>
+
 HHH
 
 The End :)
