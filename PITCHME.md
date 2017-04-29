@@ -33,6 +33,43 @@ Ajouter la page francisco_1.html.twig dans votre repertoire template
 
 {% endblock %}
 ```
+HHH
+Ajouter une definition de nouveau type pour le type de page franscisco
 
+Pour le rendre dépendante du theme, on va ajouter un repertoire blueprints dans note theme, et dans cette page ajouter une page
+franscisco_1.yaml
+VVV
+Ajouter un element de menu au blue print
+
+```html
+title: Francisco_1
+'@extends':
+    type: default
+    context: blueprints://pages
+
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        advanced:
+          fields:
+            overrides:
+              fields:
+                header.an_example_text_field:
+                  type: text
+                  label: Add a number
+                  default: 5
+                  validate:
+                    required: true
+                    type: int
+```
+
+Ajoute une ligne dans l'ongket Avancé une option de formulaire demandant une entrée texte obligatoire qui devra être un entier
+
+HHH
 HHH
 The End :)
