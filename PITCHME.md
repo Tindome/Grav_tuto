@@ -72,6 +72,10 @@ Ajoute une ligne dans l'ongket Avancé une option de formulaire demandant une en
 
 ![image](assets/111222333.png)
 
+Pour info voici ce que l'on avait avant
+
+![image](assets/111222333.png)
+
 HHH
 HHH
 The End :)
