@@ -10,7 +10,8 @@ On doit trouver les elements suivants
 - Article
 - Image
 HHH
-- Création d'un repertoire Francisco 
+Se déplacer dans le repetoire user
+- Création d'un repertoire XX.Francisco (ic XX est le numéro d'ordre d'apparition dans le menu de l'élement que l'on va crée)
 - Création d'une page francisco_1.md => on va donc appeller un modele francisco_1.html.twig
 
 VVV
