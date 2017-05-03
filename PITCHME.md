@@ -25,14 +25,13 @@ title: mon titre
 ```
 
 VVV
-Ajouter la page francisco_1.html.twig dans votre repertoire template
+Ajouter la page francisco_1.html.twig dans votre repertoire template du thème actif (celui du thème enfant si c'est un thème enfant)
 ```html
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
 
     {{ content }}
-
 
 {% endblock %}
 ```
