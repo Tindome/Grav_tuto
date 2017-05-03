@@ -10,18 +10,21 @@ On doit trouver les elements suivants
 - Article
 - Image
 HHH
-Se déplacer dans le repetoire user
+Se déplacer dans le repetoire user\pages
 - Création d'un repertoire XX.Francisco (ic XX est le numéro d'ordre d'apparition dans le menu de l'élement que l'on va crée)
-- Création d'une page francisco_1.md => on va donc appeller un modele francisco_1.html.twig
+- Création d'une page francisco_1.md 
+avoir nommé le fichier francisco_1.md  va provoquer l'appel à un modele d'affichage francisco_1.html.twig que l'on devra donc créer
 
 VVV
-Dans cette page je n'oublier pas d'ajouter le
+Dans cette page francisco_1.md  je n'oublier pas d'ajouter le titre dans le Frontmatter
+Faute de quoi la page n'apparait pas
 
 ```html
 ---
 title: mon titre
 ---
 ```
+
 VVV
 Ajouter la page francisco_1.html.twig dans votre repertoire template
 ```html
