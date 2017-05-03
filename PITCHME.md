@@ -41,7 +41,7 @@ Ajouter une definition de nouveau type pour le type de page franscisco
 Pour le rendre dépendante du theme, on va ajouter un repertoire blueprints dans note theme, et dans cette page ajouter une page
 franscisco_1.yaml
 VVV
-Ajouter un element de menu au blue print
+Ajouter un element de menu au fichier "blueprint" dans le repertoire du theme actif (user\themes\[mon_theme]\blueprints\francisco_1.yaml)
 
 ```html
 title: Francisco_1
